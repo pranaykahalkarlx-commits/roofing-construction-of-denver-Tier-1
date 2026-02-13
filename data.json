@@ -1,0 +1,130 @@
+{
+  "businessName": "Roofing Construction of Denver",
+  "category": "Roofing contractor",
+  "phone": "(719) 563-6273",
+  "email": "info@denverroofingconstruction.com",
+  "address": {
+    "full": "1550 California St, Denver, CO 80202, Central Business District",
+    "street": "1550 California St",
+    "city": "Denver",
+    "state": "Colorado",
+    "postal_code": "80202",
+    "neighborhood": "Central Business District"
+  },
+  "location": {
+    "lat": 39.7468171,
+    "lng": -104.9937935
+  },
+  "rating": 4,
+  "totalReviews": 8,
+  "yearEstablished": "2012",
+  "hero": {
+    "headline": "Denver's Premier Roofing Experts: Protecting Your Home with Unmatched Quality",
+    "subheadline": "Experience superior craftsmanship and lasting protection for your property. Get a free, no-obligation estimate today!",
+    "cta_text": "Get Your Free Roofing Estimate"
+  },
+  "aboutUs": "Roofing Construction of Denver is your trusted partner for all residential and commercial roofing needs across the Denver Metro Area. Established in 2012, we’ve built our reputation on a foundation of exceptional quality, unwavering integrity, and unparalleled customer service. We understand the unique challenges that Denver’s diverse weather presents to your roof, from harsh hailstorms to heavy snowfalls. Our team of certified and experienced professionals is dedicated to providing durable, high-performance roofing solutions tailored to protect your most valuable asset. We pride ourselves on transparent communication, timely project completion, and a commitment to using only the highest quality materials. Choose Roofing Construction of Denver for peace of mind and a roof built to last.",
+  "services": [
+    {
+      "name": "New Roof Installation & Replacement",
+      "description": "Expert installation of new roofing systems, including asphalt shingles, metal roofs, and flat roofs. We provide comprehensive tear-offs and replacements, ensuring a strong, beautiful, and long-lasting roof for your home or business.",
+      "image": "https://picsum.photos/800/600?random=2"
+    },
+    {
+      "name": "Roof Repair & Leak Detection",
+      "description": "Prompt and reliable roof repair services for all types of damage, from minor leaks and missing shingles to storm damage. Our skilled technicians accurately diagnose issues and provide effective, lasting solutions to restore your roof's integrity.",
+      "image": "https://picsum.photos/800/600?random=3"
+    },
+    {
+      "name": "Roof Inspections & Maintenance",
+      "description": "Thorough roof inspections to assess condition, identify potential problems, and recommend proactive maintenance. Our preventative services extend the life of your roof and help you avoid costly future repairs.",
+      "image": "https://picsum.photos/800/600?random=4"
+    },
+    {
+      "name": "Gutter Installation & Repair",
+      "description": "Seamless gutter installation and repair services designed to efficiently manage water runoff and protect your home's foundation and landscaping. We offer a variety of styles and materials to complement your property.",
+      "image": "https://picsum.photos/800/600?random=5"
+    },
+    {
+      "name": "Commercial Roofing Solutions",
+      "description": "Specialized roofing services for commercial properties, including TPO, EPDM, and modified bitumen systems. We deliver durable and energy-efficient roofing solutions designed to meet the demands of your business.",
+      "image": "https://picsum.photos/800/600?random=2"
+    }
+  ],
+  "testimonials": [
+    {
+      "text": "Roofing Construction of Denver did an amazing job on our hail-damaged roof. They handled everything with the insurance company and the new roof looks fantastic. Professional, efficient, and great to work with!",
+      "author": "Sarah L., Denver",
+      "rating": 5
+    },
+    {
+      "text": "Had a persistent leak that other companies couldn't fix. These guys came out, found the problem immediately, and repaired it perfectly. Honest and reliable service right here in the Central Business District.",
+      "author": "Mark T., Downtown Denver",
+      "rating": 4
+    },
+    {
+      "text": "From the initial inspection to the final cleanup, the team was incredibly thorough and respectful. Our new roof is a huge improvement, and we appreciate their attention to detail. Highly recommend!",
+      "author": "Jessica P., LoDo",
+      "rating": 4
+    }
+  ],
+  "uniqueSellingPoints": [
+    "Local Denver Expertise: Deep understanding of local building codes and weather challenges.",
+    "Certified & Experienced Professionals: Highly trained and licensed roofing specialists.",
+    "Premium Quality Materials: We use only the best materials for maximum durability and longevity.",
+    "Transparent Pricing & Free Estimates: No hidden fees, clear communication from start to finish.",
+    "Customer Satisfaction Guarantee: Our commitment to your complete satisfaction is paramount.",
+    "Efficient Project Completion: Timely and organized work to minimize disruption to your home or business."
+  ],
+  "design": {
+    "primaryColor": "#F59E0B",
+    "secondaryColor": "#1D4ED8",
+    "style": "professional-trade"
+  },
+  "metaDescription": "Roofing Construction of Denver — professional roofing contractor in Denver.",
+  "keywords": [
+    "roofing contractor Denver",
+    "roof repair Denver",
+    "new roof Denver",
+    "Denver roofing company",
+    "commercial roofing Denver",
+    "hail damage repair Denver",
+    "roofing estimates Denver"
+  ],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9:00 AM - 1:00 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "googleMaps": "https://maps.app.goo.gl/8ydwft6HZhifcDMHA",
+  "mainImage": "denver-roofing-main.jpg",
+  "stockImageFallback": "https://picsum.photos/1920/1080?random=1",
+  "status": {
+    "permanently_closed": false
+  }
+}
